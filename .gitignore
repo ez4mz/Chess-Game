@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
