@@ -38,4 +38,4 @@ This is a chess game project written in Java. Below is a detailed description of
   - The Windows batch script for the Gradle Wrapper, used to build the project on Windows systems.
 
 - **level1.txt**
-  - A sample text file for level 1 data, which may include initial game setup or level-specific configurations.
+  - A sample text file for level 1 data, which include the initial game setup.
