@@ -19,17 +19,11 @@ This is a chess game project written in Java. Below is a detailed description of
 
 ### Files
 
-- **.gitignore**
-  - Specifies files and directories to be ignored by Git. This helps to keep the repository clean by excluding unnecessary files like compiled bytecode, logs, and temporary files.
-
-- **README.md**
-  - This file. Provides an overview of the project, instructions on how to set it up, and descriptions of the project structure.
-
 - **build.gradle**
   - The build script for Gradle, which includes dependencies and build configurations for the project.
 
 - **config.json**
-  - Configuration file for the application, typically contains settings and parameters required by the game.
+  - Configuration file for the application, contains settings and parameters required by the game.
 
 - **gradlew**
   - The Unix shell script for the Gradle Wrapper, used to build the project on Unix-like systems.
